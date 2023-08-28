@@ -123,13 +123,14 @@ funcao2 (10, 20) */
 
 
 
+/* DESAFIO 2
 const teorema = (a, b) => {
 	op1 = Number(a) * Number(a)
 	op2 = Number(b) * Number(b)
 	op3 = Number(op1) + Number(op2)
-	 ** 0.5 (RAIZ QUADRADA)
-	return op
+	op4 = Number(op3) ** 0.5
+	return op4
 }
 
-const resultado = substracao(10, 5)
-console.log(resultado)
+const resultado = teorema(8, 6)
+console.log(resultado) */
